@@ -7,3 +7,8 @@
 	path = crbll0/l10n_do_grow
 	url = git@github.com:crbll0/l10n_do_grow.git
 	branch = master
+
+[submodule "OCA/field-service"]
+	path = OCA/field-service
+	url = git@github.com:OCA/field-service.git
+	branch = 12.0
