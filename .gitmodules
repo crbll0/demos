@@ -7,3 +7,8 @@
 	path = crbll0/l10n_do_grow
 	url = git@github.com:crbll0/l10n_do_grow.git
 	branch = master
+
+[submodule "OCA/stock-logistics-warehouse"]
+	path = OCA/stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
+	branch = 12.0
