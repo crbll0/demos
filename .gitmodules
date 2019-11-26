@@ -52,3 +52,8 @@
 	path = OCA/geospatial
 	url = git@github.com:OCA/geospatial.git
 	branch = 12.0
+
+[submodule "OCA/field-service"]
+	path = OCA/field-service
+	url = git@github.com:OCA/field-service.git
+	branch = 12.0
