@@ -77,3 +77,8 @@
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 12.0
+
+[submodule "it-projects-llc/pos-addons"]
+	path = it-projects-llc/pos-addons
+	url = git@github.com:it-projects-llc/pos-addons.git
+	branch = 12.0
