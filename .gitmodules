@@ -82,3 +82,8 @@
 	path = it-projects-llc/pos-addons
 	url = git@github.com:it-projects-llc/pos-addons.git
 	branch = 12.0
+
+[submodule "OCA/credit-control"]
+	path = OCA/credit-control
+	url = git@github.com:OCA/credit-control.git
+	branch = 12.0
